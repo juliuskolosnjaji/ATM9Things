@@ -3,21 +3,8 @@
 - 1x Black Hole Controller
 - 2x Supremium BlackHole Unit
 - Advanced Computer (CC: Tweaked)
-- 
+- A few 100k blocks
 
 
+# Duping ME Storage Cells with IO Ports
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Duping the ME Storage Cells
